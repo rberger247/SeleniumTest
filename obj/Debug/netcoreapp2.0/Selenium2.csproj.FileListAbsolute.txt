@@ -1,0 +1,11 @@
+C:\Users\Rafib\OneDrive\Documents\Visual Studio 2017\Projects\Selenium2\bin\Debug\netcoreapp2.0\Selenium2.deps.json
+C:\Users\Rafib\OneDrive\Documents\Visual Studio 2017\Projects\Selenium2\bin\Debug\netcoreapp2.0\Selenium2.runtimeconfig.json
+C:\Users\Rafib\OneDrive\Documents\Visual Studio 2017\Projects\Selenium2\bin\Debug\netcoreapp2.0\Selenium2.runtimeconfig.dev.json
+C:\Users\Rafib\OneDrive\Documents\Visual Studio 2017\Projects\Selenium2\bin\Debug\netcoreapp2.0\Selenium2.dll
+C:\Users\Rafib\OneDrive\Documents\Visual Studio 2017\Projects\Selenium2\obj\Debug\netcoreapp2.0\Selenium2.csprojResolveAssemblyReference.cache
+C:\Users\Rafib\OneDrive\Documents\Visual Studio 2017\Projects\Selenium2\obj\Debug\netcoreapp2.0\Selenium2.csproj.CoreCompileInputs.cache
+C:\Users\Rafib\OneDrive\Documents\Visual Studio 2017\Projects\Selenium2\obj\Debug\netcoreapp2.0\Selenium2.AssemblyInfoInputs.cache
+C:\Users\Rafib\OneDrive\Documents\Visual Studio 2017\Projects\Selenium2\obj\Debug\netcoreapp2.0\Selenium2.AssemblyInfo.cs
+C:\Users\Rafib\OneDrive\Documents\Visual Studio 2017\Projects\Selenium2\bin\Debug\netcoreapp2.0\Selenium2.pdb
+C:\Users\Rafib\OneDrive\Documents\Visual Studio 2017\Projects\Selenium2\obj\Debug\netcoreapp2.0\Selenium2.dll
+C:\Users\Rafib\OneDrive\Documents\Visual Studio 2017\Projects\Selenium2\obj\Debug\netcoreapp2.0\Selenium2.pdb
