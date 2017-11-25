@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "af33d64c66ee5c7f3f4cc42158f0646067025c9a"
+    "signature": "1868a65c7c1349567017b5f5aa41a2da38ea4aa5"
   },
   "compilationOptions": {},
   "targets": {
@@ -11,6 +11,7 @@
           "Selenium.Chrome.WebDriver": "2.33.0",
           "Selenium.WebDriver": "3.7.0",
           "Selenium.WebDriver.ChromeDriver": "2.33.0",
+          "Selenium.WebDriver.IEDriver": "3.7.0",
           "WebDriverChromeDriver": "2.10.0"
         },
         "runtime": {
@@ -60,6 +61,7 @@
         }
       },
       "Selenium.WebDriver.ChromeDriver/2.33.0": {},
+      "Selenium.WebDriver.IEDriver/3.7.0": {},
       "System.Collections/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Targets": "1.1.0",
@@ -450,6 +452,13 @@
       "sha512": "sha512-zyNEqhO384c8rMqhqm3A/t846Mq3P/q0bRWGOK1WbrcAIxMlzNMebcsMLmf36CA16/ZAkadE/S3ZppmSa7v0Qw==",
       "path": "selenium.webdriver.chromedriver/2.33.0",
       "hashPath": "selenium.webdriver.chromedriver.2.33.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.IEDriver/3.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GnWMMEInOXxhjykKwOqOAgmjW5zlno3Y0KVyJlXcLOb8mar1oCD6zTHGNDwMTHyM+T0s6JWVc9Aq0kVjgKm8Dw==",
+      "path": "selenium.webdriver.iedriver/3.7.0",
+      "hashPath": "selenium.webdriver.iedriver.3.7.0.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",

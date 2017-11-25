@@ -274,6 +274,12 @@
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
         }
       },
+      "Selenium.WebDriver.IEDriver/3.7.0": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.IEDriver.targets": {}
+        }
+      },
       "System.Collections/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1445,6 +1451,17 @@
         "driver/win32/chromedriver.exe",
         "selenium.webdriver.chromedriver.2.33.0.nupkg.sha512",
         "selenium.webdriver.chromedriver.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.IEDriver/3.7.0": {
+      "sha512": "GnWMMEInOXxhjykKwOqOAgmjW5zlno3Y0KVyJlXcLOb8mar1oCD6zTHGNDwMTHyM+T0s6JWVc9Aq0kVjgKm8Dw==",
+      "type": "package",
+      "path": "selenium.webdriver.iedriver/3.7.0",
+      "files": [
+        "build/Selenium.WebDriver.IEDriver.targets",
+        "driver/IEDriverServer.exe",
+        "selenium.webdriver.iedriver.3.7.0.nupkg.sha512",
+        "selenium.webdriver.iedriver.nuspec"
       ]
     },
     "System.Collections/4.3.0": {
@@ -3645,6 +3662,7 @@
       "Selenium.Chrome.WebDriver >= 2.33.0",
       "Selenium.WebDriver >= 3.7.0",
       "Selenium.WebDriver.ChromeDriver >= 2.33.0",
+      "Selenium.WebDriver.IEDriver >= 3.7.0",
       "WebDriverChromeDriver >= 2.10.0"
     ]
   },
@@ -3692,6 +3710,10 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Selenium.WebDriver.IEDriver": {
+            "target": "Package",
+            "version": "3.7.0"
+          },
           "Selenium.WebDriver": {
             "target": "Package",
             "version": "3.7.0"
